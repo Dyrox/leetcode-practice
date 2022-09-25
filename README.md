@@ -1,2 +1,2 @@
 # leetcode-practice
-我测
+弱智代码
