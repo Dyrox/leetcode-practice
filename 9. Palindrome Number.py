@@ -22,8 +22,8 @@ class Solution:
       return True
     
 
-#Runtime: 44 ms, faster than 99.84% of Python3 online submissions for Palindrome Number.
-#Memory Usage: 13.8 MB, less than 96.34% of Python3 online submissions for Palindrome Number
+#Runtime: 44 ms, faster than 99.84%
+#Memory Usage: 13.8 MB, less than 96.34%
 #我的建议是，，，还不如这样 lol
 
 class Solution:
